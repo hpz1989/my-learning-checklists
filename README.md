@@ -1,2 +1,16 @@
 # my-learning-checklists
-这里记录我个人的课程学习清单。
+> I will record the checklists of my learning courses in this repo.
+
+### Learning Purpose
+
+
+### Learning Plan
+
+
+### Learning Contents
+
+##### 黑马程序员
+
+##### 尚硅谷
+
+##### LinkedIn Learning
